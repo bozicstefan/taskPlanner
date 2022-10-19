@@ -1,0 +1,22 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "create new post",
+      "details": "lorem lorem",
+      "complete": true
+    },
+    {
+      "id": 2,
+      "title": "create new data",
+      "details": "lorem orem",
+      "complete": false
+    },
+    {
+      "id": 3,
+      "title": "create new cookie",
+      "details": "orem lorem",
+      "complete": false
+    }
+  ]
+}
