@@ -1,19 +1,15 @@
-# planner
+# taskPlanner
 
 ## Project setup
 ```
-npm install
+npm install - installs all the dependencies
+npm run server - runs JSON server (imitating database on http://localhost:3000/projects)
+npm run serve - runs the app (http://localhost:8080)
 ```
+-------------------------
+- Add tasks
+- Modify tasks
+- Delete tasks
+- Mark tasks completed
+-------------------------
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
