@@ -1,4 +1,4 @@
-# taskPlanner
+# taskPlanner (VueJS + JSON server)
 
 ## Project setup
 ```
